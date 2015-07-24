@@ -4,6 +4,6 @@ npm install -g react-native-cli
 
 sudo npm-install
 
-react-native start
+Execute this shell command in proyect folder: react-native start
 
-Open proyect with Xcode
+Open ReactDemo.xcodeproj with Xcode
